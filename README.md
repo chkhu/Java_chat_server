@@ -4,7 +4,7 @@ This project is a multi-client plain text chat server implementation. It can acc
 
 ## **SUBMISSION：**
 
-- code ( open in IntelliJ IDEA)
+- code (open in IntelliJ IDEA)
 - jar (out-of-box "executables" you can run directly)
 - report
 - README
